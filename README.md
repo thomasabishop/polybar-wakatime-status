@@ -4,7 +4,7 @@
 
 Display your daily coding time in [Polybar](https://github.com/polybar/polybar).
 ## Prerequisites
-- WakaTime account and API token 
+- [WakaTime](wakatime.com) account and API token 
 - Polybar 
 
 ## Dependencies
