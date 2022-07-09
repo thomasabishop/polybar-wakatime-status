@@ -2,7 +2,7 @@
 
 ![img](/img/screenshot.png)
 
-Display your daily coding time from wakatime.
+Display your daily coding time from [WakaTime](https://wakatime.com).
 
 
 ## Dependencies
